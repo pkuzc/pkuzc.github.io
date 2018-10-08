@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhang Chao"
+title                    : "Chao Zhang"
 title_separator          : "-"
-name                     : &name "Zhang Chao"
+name                     : &name "Chao Zhang"
 description              : &description "Mphil student at Peking University"
 url                      : https://pkuzc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhang Chao"
+  name             : "Chao Zhang"
   avatar           : "http://pkuzc.github.io/files/profile.png"
   bio              : "Mphil student at Peking University & Research Assistant at Chinese University of Hong Kong"
   location         : "Hong Kong"

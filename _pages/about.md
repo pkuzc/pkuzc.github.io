@@ -8,4 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is Zhang Chao's home on the web! Welcome!
+This is Chao Zhang's home on the web! Welcome!
+
+I am an Mphil student in Peking University. Before that, I obtained my Bachelor degree at School of Mathematical Sciences, Peking University in 2016. In addition, I'm a research assistant in Department of Finance, Chinese University of Hong Kong.  
+
+Recently, I am interested in how to implement machine learning in finance.
