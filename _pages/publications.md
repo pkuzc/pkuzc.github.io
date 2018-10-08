@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Publications
-
 ## [Sparse DNNs with Improved Adversarial Robustness](http://pkuzc.github.io/files/nips_2018_camera.pdf)
 
 Yiwen Guo\*, **Chao Zhang**\*(Co-first), Changshui Zhang, Yurong Chen
