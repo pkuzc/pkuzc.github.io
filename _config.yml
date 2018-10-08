@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Zhang Chao"
 title_separator          : "-"
 name                     : &name "Zhang Chao"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Mphil at Peking University"
+url                      : https://pkuzc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "pkuzc.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Zhang Chao"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Research Assistant at Chinese University of Hong Kong"
+  location         : "Hong Kong"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+#  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "pkuzc@pku.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "pkuzc"
   google_plus      :
   keybase          :
   instagram        :
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+#  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
