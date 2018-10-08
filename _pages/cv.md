@@ -9,8 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](http://pkuzc.github.io/files/CV_Chao.pdf)
-
-# Research Interests
-
-I'm interested in Fintech.
+[[Click to View My Curriculum Vitae [PDF]](http://pkuzc.github.io/files/CV_Chao.pdf)
