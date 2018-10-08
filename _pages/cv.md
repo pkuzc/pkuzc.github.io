@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[[Click to View My Curriculum Vitae [PDF]](http://pkuzc.github.io/files/CV_Chao.pdf)
+[Click to View My Curriculum Vitae (PDF)](http://pkuzc.github.io/files/CV_Chao.pdf)
