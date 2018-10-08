@@ -13,5 +13,5 @@ Address: The Met Blossom, Ma On Shan, Hong Kong <br>
 Phone: (+86) 18001214211 (+852) 65778368 <br>
 Email: pkuzc@pku.edu.cn <br>
 
-[Click to View My Curriculum Vitae (PDF)](http://pkuzc.github.io/files/CV_Chao.pdf)
+<b>[Click to View My Curriculum Vitae (PDF)](http://pkuzc.github.io/files/CV_Chao.pdf)<b>
 
