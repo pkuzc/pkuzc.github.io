@@ -1,14 +1,17 @@
 ---
 layout: archive
-title: "CV"
+title: "Chao Zhang(张超)"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-Address: The Met Blossom, Ma On Shan, Hong Kong
-Phone: (+86) 18001214211 (+852) 65778368
-Email: pkuzc@pku.edu.cn
+{% include base_path %}
+
+Address: The Met Blossom, Ma On Shan, Hong Kong <br>
+Phone: (+86) 18001214211 (+852) 65778368 <br>
+Email: pkuzc@pku.edu.cn <br>
 
 [Click to View My Curriculum Vitae (PDF)](http://pkuzc.github.io/files/CV_Chao.pdf)
+
