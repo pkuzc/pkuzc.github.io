@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Address: The Met Blossom, Ma On Shan, Hong Kong <br>
+Address: The Met Blossom, Ma On Shan, Hong Kong <br>or Peking University, Beijing <br>
 Phone: (+86) 18001214211 (+852) 65778368 <br>
 Email: pkuzc@pku.edu.cn <br>
 
