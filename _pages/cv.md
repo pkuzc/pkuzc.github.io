@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Address: The Met Blossom, Ma On Shan, Hong Kong <br>or Peking University, Beijing <br>
-Phone: (+86) 18001214211 (+852) 65778368 <br>
-Email: pkuzc@pku.edu.cn <br>
+Address: Room G.01, Statistics Department, University of Oxford, the UK <br>
+
+Email: pkuzhchao@gmail.com <br>
 
 <b>[Click to View My Curriculum Vitae (PDF)](http://pkuzc.github.io/files/CV_Chao.pdf)<b>
 
