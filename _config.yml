@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chao Zhang"
 title_separator          : "-"
 name                     : &name "Chao Zhang"
-description              : &description "Mphil student at Peking University"
+description              : &description "DPhil student at University of Oxford"
 url                      : https://pkuzc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pkuzc.github.io"
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chao Zhang"
+  name             : "Chao Zhang 张超"
   avatar           : "http://pkuzc.github.io/files/profile.png"
-  bio              : "Mphil student at Peking University & Research Assistant at Chinese University of Hong Kong"
-  location         : "Hong Kong"
+  bio              : "DPhil student at University of Oxford"
+  location         : "Oxford, the UK"
   employer         :
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "pkuzc@pku.edu.cn"
+  email            : "pkuzhchao@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
