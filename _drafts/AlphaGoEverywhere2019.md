@@ -2,7 +2,6 @@
 title: "Alpha Go Everywhere: Machine Learning and International Stock Returns"
 collection: drafts
 permalink: /drafts/AlphaGoEverywhere2019
-date: 2019-12-05
 
 citation: 'Choi, Darwin and Jiang, Wenxi and Zhang, Chao, <i>Alpha Go Everywhere: Machine Learning and International Stock Returns (November 19, 2019) </i>.'
 ---
