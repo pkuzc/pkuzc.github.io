@@ -1,6 +1,6 @@
 ---
-title: "Working Papers"
-permalink: /working_papers/
+title: "Drafts"
+permalink: /drafts/
 author_profile: true
 ---
 
