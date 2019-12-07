@@ -3,7 +3,6 @@ title: "CNN-LSTM Neural Network Model for Quantitative Strategy Analysis in Stoc
 collection: publications
 permalink: /publications/iconip2017
 venue: "ICONIP 2017"
-date: 2017-11-20
 citation: 'Shuanglong Liu, <b>Chao Zhang</b>(equal contribution), Jinwen Ma. <i>The 24th International Conference on Neural Information Processing</i>. <b>ICONIP 2017</b>.'
 ---
 
