@@ -18,3 +18,4 @@ Quantitative Strategy Analysis in Stock Markets](http://pkuzc.github.io/publicat
 Shuanglong Liu, <b>Chao Zhang</b>(Co-first), Jinwen Ma.
 
  <i> International Conference on Neural Information Processing (ICONIP) 2017.</i>
+
