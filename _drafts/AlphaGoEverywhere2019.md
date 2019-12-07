@@ -1,6 +1,6 @@
 ---
 title: "Alpha Go Everywhere: Machine Learning and International Stock Returns"
-collection: Drafts
+collection: drafts
 permalink: /drafts/AlphaGoEverywhere2019
 date: 2019-12-05
 
